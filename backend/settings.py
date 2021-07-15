@@ -142,4 +142,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://localhost:3000",
+    "https://notes-store-app.herokuapp.com",
+    "http://notes-store-app.herokuapp.com"
 ]
